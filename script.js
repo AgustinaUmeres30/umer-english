@@ -2,7 +2,7 @@
 // Cambiá el número de prueba por tu WhatsApp real antes de publicar.
 // Formato: código de país + número, solo dígitos. Argentina: 549 + código de área + número.
 const UMER_CONFIG = {
-  whatsappNumber: "5491100000000",
+  whatsappNumber: "5491166624151",
   email: "umerenglish30@gmail.com"
 };
 
